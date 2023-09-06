@@ -1,20 +1,16 @@
-/* This is a CSS comment */
-
 /* Style the body element */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
+    background-color: #ffba86;
+    color: #79155b;
 }
 
 /* Style a heading element */
 h1 {
-    color: #007bff;
+    color: #c23373;
 }
 
 /* Style paragraphs */
 p {
     font-size: 16px;
 }
-
-/* Add more CSS rules as needed */
